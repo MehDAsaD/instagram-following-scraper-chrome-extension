@@ -1,4 +1,4 @@
-# Instagram Following Extractor Extension
+# Instagram Following Scraper Extension
 
 
 ## Overview
