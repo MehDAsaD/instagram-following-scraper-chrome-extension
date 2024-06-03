@@ -50,5 +50,5 @@ This Chrome extension scrapes following from a target Instagram page. Simply ope
    ![Screenshot 3](screenshot/extension–3.png)
 
 
-
+##hashtags
 #InstagramScraper #ChromeExtension #DataExtraction #WebScraping #JavaScript #InstagramFollowingScraperChromeExtension #InstagramFollowingScraperExtension #FollowingScraper
