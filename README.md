@@ -39,7 +39,7 @@ This Chrome extension scrapes following from a target Instagram page. Simply ope
 ## Screenshots
 1. Click on the Instagram Following Extractor extension icon to view the user interface in a pop-up. Click the "Click to Start Scraping" button to begin extraction.
 
-   ![Screenshot 1](screenshot/extension-1.png)
+   ![Screenshot 1](screenshot/extension–1.png)
 
 2. You will see that the following are being extracted.
 
