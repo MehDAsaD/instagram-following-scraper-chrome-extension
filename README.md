@@ -51,4 +51,10 @@ This Chrome extension scrapes following from a target Instagram page. Simply ope
 
 
 
+### Product Link
+
+This extension is part of the Virtual User Instagram Follower Booster Bot Package. For more information about this package, please visit [the product page on the Virtual User website.](https://www.v-user.com/en/side-products/instagram-robot)
+
+
+
 #InstagramScraper #ChromeExtension #DataExtraction #WebScraping #JavaScript #InstagramFollowingScraperChromeExtension #InstagramFollowingScraperExtension #FollowingScraper
